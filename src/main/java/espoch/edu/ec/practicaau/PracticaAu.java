@@ -31,6 +31,8 @@ public class PracticaAu {
         System.out.println("lista despues de a modificacion");
         for (Estudiante estudiante:estudiantes){
             estudiante.mostrarInfo();
+            
+            System.out.println("EL tuni vale pipi");
         }
         
         
